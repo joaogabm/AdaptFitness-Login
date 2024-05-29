@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62660266207",
+    "project_id": "adapt-fitness-app-de773",
+    "storage_bucket": "adapt-fitness-app-de773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62660266207:android:ec3335e930fbdd6213016a",
+        "android_client_info": {
+          "package_name": "com.example.adaptfitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWqORfx0c-Mk4VKSkW_cwQT1Mn8Rcz1C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
